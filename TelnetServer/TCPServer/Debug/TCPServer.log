@@ -1,0 +1,4 @@
+﻿  TCPServer.cpp
+c:\users\hason\source\repos\telnetserver\tcpserver\tcpserver.cpp(13): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\hason\source\repos\telnetserver\tcpserver\tcpserver.cpp(13): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  TCPServer.vcxproj -> C:\Users\hason\source\repos\TelnetServer\Debug\TCPServer.exe
